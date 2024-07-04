@@ -1,3 +1,5 @@
 #+title: Readme
 
 * Probability Density Functions
+
+Probability Density Functions (PDF) are used in many fields of mathematics. I want to explore these functions through the lens of rolling dice. I'll be using frequency statistics...
